@@ -1,0 +1,2 @@
+# PanDownload_Launcher
+基于Nginx的小工具，用于离线启动PanDownload
